@@ -1,2 +1,2 @@
-# 20.05.17_test_unityProject
+# 20.05.17_GITHUB_testUnityProject
 Link unity project with github
